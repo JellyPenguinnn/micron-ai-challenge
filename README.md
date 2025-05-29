@@ -18,6 +18,18 @@ This repository contains the implementation for the Micron AI Challenge, focusin
 └── README.md             # This file
 ```
 
+## Data Setup
+
+The training and test data are too large to be included in this repository. You can download them from:
+[Google Drive Link](https://drive.google.com/drive/folders/1xRzD47m2XcOYYEQBe9Cq_-w1jHJaz8Y4?usp=share_link)
+
+After downloading:
+1. Extract the data files
+2. Place them in their respective directories:
+   - Training data in the `train/` directory
+   - Test data in the `test/` directory
+   - Submission data in the `submission/` directory
+
 ## Setup
 
 1. Create a virtual environment (recommended):

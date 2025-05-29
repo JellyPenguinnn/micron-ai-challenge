@@ -1,3 +1,0 @@
-"""
-Micron AI Challenge package
-""" 
