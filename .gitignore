@@ -28,7 +28,7 @@ wheels/
 *.log
 *.sqlite
 logs/
-models/
+trained_models/
 results/
 
 # OS generated files
