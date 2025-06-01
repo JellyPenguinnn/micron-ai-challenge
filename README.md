@@ -23,6 +23,7 @@ This repository contains the implementation for the Micron AI Challenge, focusin
 ├── trained_models/        # Saved trained models
 ├── prediction_results/    # Generated predictions
 ├── logs/                 # Training and execution logs
+├── docs/                 # Documentation and additional resources
 ├── requirements.txt      # Python dependencies
 └── README.md            # This file
 ```
