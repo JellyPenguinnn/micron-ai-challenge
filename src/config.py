@@ -4,8 +4,8 @@ from pathlib import Path
 # Project paths
 PROJECT_DIR = Path(__file__).parent.parent
 DATA_DIR = PROJECT_DIR  # Data is in the root directory
-MODEL_DIR = PROJECT_DIR / "models"
-RESULTS_DIR = PROJECT_DIR / "results"
+MODEL_DIR = PROJECT_DIR / "trained_models"
+RESULTS_DIR = PROJECT_DIR / "prediction_results"
 LOG_DIR = PROJECT_DIR / "logs"
 
 # Data parameters
