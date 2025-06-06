@@ -36,8 +36,8 @@ def main():
     """Main training and prediction pipeline."""
     try:
         # Setup
-        setup_logging()
         setup_directories()
+        setup_logging()
         logging.info("Starting training pipeline")
         
         # Load and process data
