@@ -55,3 +55,6 @@ Thumbs.db
 .ipynb_checkpoints
 *.ipynb
 notebooks/
+
+# Visuals
+*.png

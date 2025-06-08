@@ -105,6 +105,14 @@ The model achieves:
 - Code follows PEP 8 style guide
 - Logging is implemented for debugging and monitoring
 
+
+## Data Visualization
+
+- `python src/visualization.py --stage eda` to generate exploratory figures only
+- `python src/visualization.py --stage diagnostics` (After training (main.py), add diagnostics)
+- `python src/visualization.py --stage all` Everything one go
+
+
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
